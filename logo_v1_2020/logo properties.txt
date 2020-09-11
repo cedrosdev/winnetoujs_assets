@@ -1,1 +1,5 @@
 font: Myriad Pro
+colors> 
+	light #cd94d5
+	medium #90449b
+	dark #6b2575
